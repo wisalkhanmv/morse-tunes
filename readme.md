@@ -12,12 +12,11 @@
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/morsetunes.git
    cd morsetunes
    ```
-
-````
 
 2. Install the dependencies:
    ```bash
@@ -89,4 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy coding and learning with MorseTunes!
-````
+
+```
+
+```
