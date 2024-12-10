@@ -1,0 +1,3 @@
+[submodule "hf/hf/morse-tunes"]
+	path = hf/hf/morse-tunes
+	url = https://huggingface.co/spaces/wisalkhanmv/morse-tunes
