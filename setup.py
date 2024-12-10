@@ -16,7 +16,7 @@ setup(
     url="https://github.com/wisalkhanmv/morse-tunes",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache 2.0 License",
+        "License :: OSI Approved :: Apache Software License",  # Corrected the license classifier
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
