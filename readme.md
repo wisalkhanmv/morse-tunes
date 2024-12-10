@@ -14,7 +14,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/morsetunes.git
+   git clone https://github.com/wisalkhanmv/morsetunes.git
    cd morsetunes
    ```
 
