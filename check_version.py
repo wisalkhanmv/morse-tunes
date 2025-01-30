@@ -12,7 +12,7 @@ def get_version():
     raise ValueError("Could not find version in setup.py")
 
 
-package_name = "lowerated"  # Replace with your package name
+package_name = "morse-tunes"  # Replace with your package name
 version = get_version()
 
 response = requests.get(f"https://pypi.org/pypi/{package_name}/json")
