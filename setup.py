@@ -11,7 +11,7 @@ setup(
         ]
     },
     author="Muhammad Wisal",
-    author_email="muhammadwisalkhanmv@example.com",
+    author_email="muhammadwisalkhanmv@gmail.com",
     description="A library to convert text to Morse code and play it as audio.",
     url="https://github.com/wisalkhanmv/morse-tunes",
     classifiers=[
